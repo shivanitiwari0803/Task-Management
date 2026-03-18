@@ -38,44 +38,7 @@ This is a full-stack Task Management Application built using the MERN stack. It 
 * `/backend` → API, database, controllers
 * `/frontend` → UI components and pages
 
-Task-Management-App/
-│
-├── backend/
-│   ├── src/
-│   │   ├── config/
-│   │   │   └── database.js
-│   │   ├── controllers/
-│   │   │   └── task.controller.js
-│   │   ├── models/
-│   │   │   └── Task.js
-│   │   ├── routes/
-│   │   │   └── task.routes.js
-│   │   ├── middleware/
-│   │   │   └── error.middleware.js
-│   │   └── app.js
-│   │
-│   ├── server.js
-│   ├── package.json
-│   ├── .env
-│   └── .gitignore
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── TaskForm.jsx
-│   │   │   └── TaskList.jsx
-│   │   ├── pages/
-│   │   │   └── Home.jsx
-│   │   ├── services/
-│   │   │   └── Api.jsx
-│   │   ├── App.jsx
-│   │   ├── main.jsx
-│   │   └── index.css
-│   │
-│   ├── package.json
-│   └── vite.config.js
-│
-└── README.md
+
 ---
 
 ## ⚙️ Installation & Setup
